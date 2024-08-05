@@ -1,5 +1,5 @@
 # LittleImageApp
-It’s a simple, small app for Android using React Native
+It is a simple, small application for Android using React Native where you can watch, zoom and download the presented images.
 
 # Run app in dev mode
        npx react-native start --experimental-debugger
