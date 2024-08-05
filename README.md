@@ -1,4 +1,4 @@
-# ImageApp
+# LittleImageApp
 It’s a simple, small app for Android using React Native
 
 # Run app in dev mode
