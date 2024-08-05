@@ -3,7 +3,7 @@ It is a simple, small application for Android using React Native where you can w
 
 # Run app in dev mode
        npx react-native start --experimental-debugger
-2.After, for running it, press "a" to run android emulator  
+2.Running for android device, press "a" 
 3.After it, press "j" for opening experimental-debugger
 
 # Clean and Install
